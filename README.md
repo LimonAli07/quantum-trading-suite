@@ -29,8 +29,8 @@ This is an automated trading system. Configuration and setup details are availab
 
 ## ⚠️ Disclaimer
 
-Trading involves risk. This software is provided for educational and informational purposes. Always do your own research and never invest more than you can afford to lose.
-
+This is all in demo account i dont have funds to run make a better decision system or use a better llm decison maker 
+  maybe one day in the future I WILL MAKE IT!! 
 
 https://github.com/user-attachments/assets/bb8055d3-6ace-495c-a313-ed5fef0b881b
 
